@@ -1,2 +1,3 @@
 # cloth-rendering
-Irawan BTF model by Lingfeng Yang et Kang
+Irawan BTF model by Lingfeng Yang
+Kang model by cici
